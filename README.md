@@ -30,7 +30,7 @@ In this folder, we provide code files for the reacher LQR experiments.
 * `ckpt/`: Model checkpoints.
 
 ## Examples
-We provide datasets (both original and created by the different inverse methods of OHIO) and pre-trained model checkpoints at https://drive.google.com/drive/folders/1pP421W_dQ8PFChNyGQbym3uzSK6CDunR?usp=sharing. 
+We provide datasets (both original and created by the different inverse methods of OHIO) and pre-trained model checkpoints at [GoogleDrive](https://drive.google.com/drive/folders/1pP421W_dQ8PFChNyGQbym3uzSK6CDunR?usp=sharing). 
 After downloading, please move the datasets to '/goal_directed/data/' and the model checkpoints to '/goal_directed/ckpt/'.
 
 To test the pre-trained E2E agent (on E2E data) run the following: 
@@ -53,7 +53,7 @@ All training parameters are kept at their default values from the paper accross 
 ##  Robotic manipulation
 Our robotic manipulation experiments are built on the robosuite package (https://github.com/ARISE-Initiative/robosuite). We have extended this package and therefore provide our own version in this repository. Specifically, we have extended the controller implementation to be differentable in pytorch and have added lower-level learned controller (HRL baselines).
 
-We provide all datasets (both original and created by f OHIO) and pre-trained model checkpoints at https://drive.google.com/drive/folders/1pP421W_dQ8PFChNyGQbym3uzSK6CDunR?usp=sharing. 
+We provide all datasets (both original and created by f OHIO) and pre-trained model checkpoints at [GoogleDrive](https://drive.google.com/drive/folders/1pP421W_dQ8PFChNyGQbym3uzSK6CDunR?usp=sharing). 
 After downloading, please move the dataset to '/robotic_manipulation/data' and the model checkpoints to '/robotic_manipulation/ckpt/'.
 ###  Contents
 The folder structure is as follows: 
