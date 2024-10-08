@@ -1,0 +1,9 @@
+gymnasium==0.29.1
+mujoco==3.1.2
+numpy==1.26.4
+torch==2.2.0
+torchaudio==2.2.0
+torchdata==0.7.1
+torchvision==0.17.0
+tornado==6.4
+tqdm==4.66.2

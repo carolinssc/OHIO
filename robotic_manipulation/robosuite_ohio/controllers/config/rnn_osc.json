@@ -1,0 +1,10 @@
+{
+  "type": "RNN_OSC",
+  "input_max": 1,
+  "input_min": -1,
+  "output_max": [0.015, 0.015, 0.015, 0.05, 0.05, 0.05],
+  "output_min": [-0.015, -0.015, -0.015, -0.05, -0.05, -0.05],
+  "position_limits": null,
+  "control_delta": true,
+  "interpolation": null
+}
